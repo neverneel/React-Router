@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-red-500 p-4 w-fit'>React Router</h1>
+    
     </>
   )
 }
